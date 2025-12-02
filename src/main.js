@@ -99,22 +99,3 @@ async function onLoadMore() {
     hideLoader();
   }
 }
-
-
-    
-// addEventListener('click', ()=>{
-// getList()
-// .then((list)=> renderHTML(list))
-// .catch((error)=>console.log(error))
-// })
-
-
-// addEventListener('click', async event =>{
-
-
-
-// const list = await getList()
-// renderHTML(list)
-
-
-// 
